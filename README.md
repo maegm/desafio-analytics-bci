@@ -1,5 +1,14 @@
 # Desafío analítico Data & Analytics
 
+## Requisitos
+Para ejecutar el contenido de este repositorio es necesario descargar manualmente el archivo _worldcitiespop.txt_ del 
+siguiente link www.tinyurl.com/yuw3maan y pegar en el directorio _data/worldcitiespop.txt_.
+
+Una vez se tenga el archivo escribir en la consola:
+```
+pip install -r requirements.txt
+```
+
 ## Descripción del problema
 
 En el área tenemos una hipótesis de pasillo que nos gustaría que tú lo revisaras para
@@ -20,4 +29,4 @@ herramienta que consideres adecuada y apropiada al desafío. Buscaremos después
 tu código para comprender tu nivel y estilo.
 
 ## Data 
-Nos gustaría que ocupes un dataset abierto (World cities Pop) como base para tu análisis: www.tinyurl.com/yuw3maan
+Nos gset abierto (World cities Pop) como base para tu análisis: www.tinyurl.com/yuw3maan
